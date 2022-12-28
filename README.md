@@ -3,3 +3,4 @@
 - Tipe Data Boolean
 - Tipe Data String
 - Variabel
+- Constant
