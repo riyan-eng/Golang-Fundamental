@@ -5,3 +5,4 @@
 - Variabel
 - Constant
 - Konversi tipe data
+- Type declarations
