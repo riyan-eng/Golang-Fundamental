@@ -8,3 +8,4 @@
 - Type declarations
 - Operasi matematika
 - Operasi perbandingan
+- Operasi boolean
