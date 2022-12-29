@@ -7,3 +7,4 @@
 - Konversi tipe data
 - Type declarations
 - Operasi matematika
+- Operasi perbandingan
