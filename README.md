@@ -9,3 +9,4 @@
 - Operasi matematika
 - Operasi perbandingan
 - Operasi boolean
+- Tipe data array
