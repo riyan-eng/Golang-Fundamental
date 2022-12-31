@@ -12,3 +12,7 @@
 - Tipe data array
 - Tipe data slice
 - Tipe data map
+- If expression
+- Switch
+- For loop
+- Break & continue
