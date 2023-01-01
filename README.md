@@ -30,3 +30,4 @@
 - Defer
 - Panic
 - Recover
+- Struct
