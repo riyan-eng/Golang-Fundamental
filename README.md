@@ -22,3 +22,4 @@
 - Function return multiple value
 - Function return named value
 - Variadic function
+- Function as value
