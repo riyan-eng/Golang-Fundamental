@@ -29,3 +29,4 @@
 - Closure
 - Defer
 - Panic
+- Recover
