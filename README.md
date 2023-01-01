@@ -23,3 +23,4 @@
 - Function return named value
 - Variadic function
 - Function as value
+- Function as parameter
