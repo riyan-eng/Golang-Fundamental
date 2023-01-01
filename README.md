@@ -25,3 +25,4 @@
 - Function as value
 - Function as parameter
 - Anonymous function
+- Recursive function
