@@ -28,3 +28,4 @@
 - Recursive function
 - Closure
 - Defer
+- Panic
