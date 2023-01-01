@@ -27,3 +27,4 @@
 - Anonymous function
 - Recursive function
 - Closure
+- Defer
