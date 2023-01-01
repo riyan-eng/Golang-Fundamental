@@ -31,3 +31,4 @@
 - Panic
 - Recover
 - Struct
+- Struct method
