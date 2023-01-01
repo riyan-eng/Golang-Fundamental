@@ -16,3 +16,6 @@
 - Switch
 - For loop
 - Break & continue
+- Function
+- Function parameter
+- Function return value
