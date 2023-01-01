@@ -26,3 +26,4 @@
 - Function as parameter
 - Anonymous function
 - Recursive function
+- Closure
