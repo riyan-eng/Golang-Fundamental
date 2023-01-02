@@ -32,3 +32,4 @@
 - Recover
 - Struct
 - Struct method
+- Interface
