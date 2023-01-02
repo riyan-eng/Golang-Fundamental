@@ -33,3 +33,4 @@
 - Struct
 - Struct method
 - Interface
+- Interface kosong
