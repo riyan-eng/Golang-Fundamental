@@ -35,3 +35,4 @@
 - Interface
 - Interface kosong
 - Nil
+- Error interface
