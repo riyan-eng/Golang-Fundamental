@@ -37,3 +37,4 @@
 - Nil
 - Error interface
 - Type assertions
+- Pointer
