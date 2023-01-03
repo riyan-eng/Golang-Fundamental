@@ -42,3 +42,4 @@
 - Pointer method
 - Package & import
 - Access Modifier
+- Function initialization (package init)
