@@ -38,3 +38,4 @@
 - Error interface
 - Type assertions
 - Pointer
+- Pointer function
