@@ -34,3 +34,4 @@
 - Struct method
 - Interface
 - Interface kosong
+- Nil
