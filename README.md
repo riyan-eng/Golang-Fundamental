@@ -36,3 +36,4 @@
 - Interface kosong
 - Nil
 - Error interface
+- Type assertions
