@@ -39,3 +39,4 @@
 - Type assertions
 - Pointer
 - Pointer function
+- Pointer method
