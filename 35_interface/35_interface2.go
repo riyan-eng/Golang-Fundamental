@@ -10,7 +10,7 @@ type Kucing struct {
 	Name string
 }
 
-func (kucing Kucing) getSuara() string {
+func (kucing *Kucing) getSuara() string {
 	return "meong " + kucing.Name
 }
 
