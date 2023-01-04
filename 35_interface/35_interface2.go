@@ -10,11 +10,11 @@ type Kucing struct {
 	Name string
 }
 
-func (kucing *Kucing) getSuara() string {
-	return "meong " + kucing.Name
+func (kucing *Kucing) getSuara(suara string) string {
+	return suara + " " + kucing.Name
 }
 
 func main() {
 	riyan := Kucing{"riyan"}
-	fmt.Println(riyan.getSuara())
+	fmt.Println(riyan.getSuara("aum"))
 }
