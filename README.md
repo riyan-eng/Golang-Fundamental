@@ -47,3 +47,4 @@
 - Waitgroup
 - Channel
 - Context
+- Generics
