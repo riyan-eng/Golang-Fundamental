@@ -45,3 +45,4 @@
 - Function initialization (package init)
 - Goroutines
 - Waitgroup
+- Channel
