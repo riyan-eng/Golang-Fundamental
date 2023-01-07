@@ -44,3 +44,4 @@
 - Access Modifier
 - Function initialization (package init)
 - Goroutines
+- Waitgroup

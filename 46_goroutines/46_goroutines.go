@@ -11,7 +11,7 @@ func compute(value int) {
 func main() {
 	fmt.Println("getting started goroutines")
 	go compute(5)
-	go compute(5)
+	go compute(2)
 
 	fmt.Scanln()
 }
