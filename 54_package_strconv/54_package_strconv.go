@@ -16,4 +16,10 @@ func main() {
 
 	value := strconv.FormatInt(1000000, 10)
 	fmt.Println(value)
+
+	valueInt, _ := strconv.Atoi("1000000")
+	fmt.Println(valueInt)
+
+	valueStr := strconv.Itoa(10000)
+	fmt.Println(valueStr)
 }
