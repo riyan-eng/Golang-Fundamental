@@ -52,3 +52,4 @@
 - Package flags
 - Package strings
 - Package strconv
+- Package math
