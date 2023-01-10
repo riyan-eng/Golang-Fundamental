@@ -50,3 +50,4 @@
 - Generics
 - Package os
 - Package flags
+- Package strings
